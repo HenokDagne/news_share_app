@@ -1,0 +1,22 @@
+[
+  {
+    "source": "Tech Daily",
+    "timeAgo": "2h ago",
+    "title": "Breaking: Major Tech Company Announces Breakthrough in AI Technology",
+    "subtitle": "Industry leaders revealed plans that could reshape artificial intelligence.",
+    "category": "Technology",
+    "likes": 2847,
+    "comments": 234,
+    "shares": 567
+  },
+  {
+    "source": "Science World",
+    "timeAgo": "4h ago",
+    "title": "New Discovery in Quantum Computing",
+    "subtitle": "Researchers achieved a milestone in qubit stability.",
+    "category": "Science",
+    "likes": 1320,
+    "comments": 120,
+    "shares": 210
+  }
+]

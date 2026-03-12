@@ -1,0 +1,39 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Flutter plugin/dependency metadata
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# Generated platform files
+android/.gradle/
+android/local.properties
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/.last_build_id
+
+# Supabase local cache
+supabase/.temp/
+
+# Coverage
+coverage/

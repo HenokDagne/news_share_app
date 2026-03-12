@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857238517551",
+    "project_id": "news-share-f7c71",
+    "storage_bucket": "news-share-f7c71.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857238517551:android:91c0b4b7ca4bc987c153da",
+        "android_client_info": {
+          "package_name": "com.example.news_share"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQ1OdOTL6Ee0Wpw3qq8CjfMDHSz7gBKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
