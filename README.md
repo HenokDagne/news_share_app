@@ -63,6 +63,12 @@ NewsShare lets users browse headlines, search topics, create posts, discover oth
   </tr>
 </table>
 
+## Demo Video
+
+[![Watch the demo video](https://img.youtube.com/vi/FFBkqBLVfdw/hqdefault.jpg)](https://youtu.be/FFBkqBLVfdw)
+
+- [Watch on YouTube](https://youtu.be/FFBkqBLVfdw)
+
 ## Tech Stack
 
 - Flutter (Dart)
